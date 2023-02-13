@@ -1,0 +1,17 @@
+body {background:grey; }
+
+h1 { margin: 10px auto; color:brown; text-align:centre; }
+
+#survey-form {background:lightblue; }
+
+#essentials {
+
+padding: 10px 0px 10px 15px; 
+}
+
+#name, #email, #number-label { margin: 10px 0px 10px 10px; padding-left: 10px;}
+
+#roles {
+  padding:10px; margin: 10px;
+}
+
